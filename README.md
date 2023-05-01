@@ -1,4 +1,4 @@
-#Description
+**Description**
 
 Welcome to a copy of Etch-a-Sketch  You can create your own design here.
 
@@ -6,6 +6,6 @@ If you want to lock the brush and stop painting you click the first time and the
 
 *Made relatively quickly and has some minor problems.*
 
-#Feedback
+**Feedback**
 
 Feel free to give feedback about what should be fixed :grinning:
