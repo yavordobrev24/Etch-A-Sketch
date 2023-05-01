@@ -1,0 +1,43 @@
+
+.board {
+    width:30vw;
+    height:30vw;
+    display: grid;
+    background-color: white;
+    box-shadow: 5px 5px 5px black;
+}
+.flex-container {
+  width: 100vw;
+  height:100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap:10px;
+}
+body{
+  background-image: url('background.jpg');
+  background-size: cover;
+}
+.content{
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  gap:10px
+}
+.title{
+  color:white;
+  margin: 10px;
+}
+button{
+  box-shadow: 5px 5px 5px black;
+}
+input{
+  box-shadow: 5px 5px 5px black;
+}
+button:hover{
+  cursor: pointer;
+}
+p{
+  color:white;
+  font-weight: bold;
+}
